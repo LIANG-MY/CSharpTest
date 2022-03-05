@@ -1,0 +1,16 @@
+F:\project_aqrose\TrainProject\CSharpProject\DataFrame\bin\Debug\net5.0\DataFrame.exe
+F:\project_aqrose\TrainProject\CSharpProject\DataFrame\bin\Debug\net5.0\DataFrame.deps.json
+F:\project_aqrose\TrainProject\CSharpProject\DataFrame\bin\Debug\net5.0\DataFrame.runtimeconfig.json
+F:\project_aqrose\TrainProject\CSharpProject\DataFrame\bin\Debug\net5.0\DataFrame.runtimeconfig.dev.json
+F:\project_aqrose\TrainProject\CSharpProject\DataFrame\bin\Debug\net5.0\DataFrame.dll
+F:\project_aqrose\TrainProject\CSharpProject\DataFrame\bin\Debug\net5.0\ref\DataFrame.dll
+F:\project_aqrose\TrainProject\CSharpProject\DataFrame\bin\Debug\net5.0\DataFrame.pdb
+F:\project_aqrose\TrainProject\CSharpProject\DataFrame\obj\Debug\net5.0\DataFrame.csproj.AssemblyReference.cache
+F:\project_aqrose\TrainProject\CSharpProject\DataFrame\obj\Debug\net5.0\DataFrame.GeneratedMSBuildEditorConfig.editorconfig
+F:\project_aqrose\TrainProject\CSharpProject\DataFrame\obj\Debug\net5.0\DataFrame.AssemblyInfoInputs.cache
+F:\project_aqrose\TrainProject\CSharpProject\DataFrame\obj\Debug\net5.0\DataFrame.AssemblyInfo.cs
+F:\project_aqrose\TrainProject\CSharpProject\DataFrame\obj\Debug\net5.0\DataFrame.csproj.CoreCompileInputs.cache
+F:\project_aqrose\TrainProject\CSharpProject\DataFrame\obj\Debug\net5.0\DataFrame.dll
+F:\project_aqrose\TrainProject\CSharpProject\DataFrame\obj\Debug\net5.0\ref\DataFrame.dll
+F:\project_aqrose\TrainProject\CSharpProject\DataFrame\obj\Debug\net5.0\DataFrame.pdb
+F:\project_aqrose\TrainProject\CSharpProject\DataFrame\obj\Debug\net5.0\DataFrame.genruntimeconfig.cache
